@@ -1,7 +1,7 @@
 const nums = [1, 2, 3, 7, 2];
 
 var containsDuplicate = function (nums) {
-  const seen = new Set();
+  const seen = new Set(); // an array where you can't add duplicates
 
   for (let i = 0; i < nums.length; i++) {
     if (seen.has(nums[i])) {
