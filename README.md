@@ -19,3 +19,4 @@ This repository contains my Data Structures and Algorithms (DSA) problem solutio
 - `TwoSum-II.js`
 - `ContainerWithMostWater.js`
 - `GroupAnagrams.js`
+- `SubarraySumEqualsK.js`
