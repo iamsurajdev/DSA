@@ -18,3 +18,4 @@ This repository contains my Data Structures and Algorithms (DSA) problem solutio
 - `LongestSubstringWithoutRepeatingCharacters.js`
 - `TwoSum-II.js`
 - `ContainerWithMostWater.js`
+- `GroupAnagrams.js`
